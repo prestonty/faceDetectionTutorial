@@ -1,0 +1,3 @@
+module jFaceDetector {
+	requires opencv;
+}
